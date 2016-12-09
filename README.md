@@ -1,8 +1,10 @@
-# sell
 
-Vue.js 高仿饿了么 app
+
+# Vue.js 高仿饿了么 app
 
 > sell app
+
+<img src="resource/外卖01_商品页.jpg" width="380" height="680">
 
 ## Build Setup
 
