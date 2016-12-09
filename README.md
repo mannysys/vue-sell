@@ -1,5 +1,7 @@
 # sell
 
+Vue.js 高仿饿了么 app
+
 > sell app
 
 ## Build Setup
